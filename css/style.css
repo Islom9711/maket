@@ -1,0 +1,193 @@
+.html{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+.container {
+    display: flex;
+    width: 1100px;
+    margin-left:auto;
+    margin-right: auto;
+   background-color: #ffffff;
+    
+}
+.logo-div {
+    display: flex;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+ .logo-item {
+    display: flex;
+    list-style: none;
+    padding-left: 115px;
+ }
+  .logo-list {
+    text-decoration: none; 
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: black;
+  }
+  .Qabul-link {
+    margin-left: 80px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    box-sizing: border-box;
+    border: 1px solid #DE2E54;
+    border-radius: 8px;
+    padding: 12px 24px;
+
+    color: #DE2E54;
+  }
+  .Qabul-a {
+    color: #ffffff; 
+  }
+  .logo-X {
+      color: #DE2E54;
+      text-decoration: none;
+  }
+  .logo-a {
+      color: black;
+      text-decoration: none;
+  }
+  .logo-img {
+      margin-left: 40px;
+      
+  }
+  .Qabul-a {
+      color: #DE2E54;
+  }
+
+  .box-section {
+      display: flex;
+  }
+  .box-container {
+     display: flex;
+     border: 2px solid #0EB4C1;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: #0EB4C1;
+     padding-left: 40px;
+     padding-right: 40px;
+  }
+  .box-strong {
+    Font-style: Bold;
+    Font-size: 36px;
+    Line-height: 43px;
+    Line-height: 100%;
+    color: #ffffff;
+  }
+  .box-img {
+      margin-left: 120px;
+  }
+  .box-div {
+      margin-top: 90px;
+      color: #ffffff;
+  }
+ 
+  .Xizmatlar-h2 {
+      text-align: center;
+  }
+  .Hijoma-div{
+   vertical-align: top;
+    
+    display: inline-block;
+  
+  }
+  .Hijoma-img {
+      margin-left: 200px;
+      margin-top: 50px;
+       
+  }
+  .Hijoma-p {
+      color: #444444bb;
+         
+  }
+  .Hijoma-strong {
+     vertical-align: top;
+     
+  }
+  .Zuluk-div {
+      display: block;
+      text-align: center;
+      border: 1px solid #DE2E54;
+      margin-left: 600px;
+      margin-right: 600px;
+      Align: Inside;
+     
+      
+  }
+  .Xizmatlar-a {
+      color: #DE2E54;
+      text-decoration: none;
+  }
+     
+    
+  .invitation-container {
+    background-color: #0EB4C1;
+}
+
+.invitation {
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 55px;
+}
+
+.invitation-links-wrapper {
+    display: flex;
+    list-style: none;
+    padding-left: 440px;
+    padding-bottom: 70px;
+}
+
+.invitation-link {
+    
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 120%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-right: 55px;
+    border:2px solid #ffff;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 12px 24px;
+    
+}
+
+.footer-logo {
+    display: flex;
+    background-color: #222222;
+}
+
+.logo-link-other-footer {
+    text-decoration: none; 
+  margin-left: 20px;
+    
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #ffffff;
+}
+.logo-link-other-wrap {
+    list-style: none;
+    display: flex;
+   
+}
+.logo-links {
+    display: flex;
+    margin-left: 400px;
+}
